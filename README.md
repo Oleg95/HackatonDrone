@@ -5,7 +5,7 @@ Usage:
 
 python -m vevn env
 
-env/Scripts/activate.bat
+env\Scripts\activate.bat
 
 pip install -r requirements.txt
 

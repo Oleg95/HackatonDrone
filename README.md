@@ -4,7 +4,7 @@ Drone takes all trash on the map each category then goes to base to ship it out.
 
 Usage:
 
-python -m vevn env
+python -m venv env
 
 env\Scripts\activate.bat
 
